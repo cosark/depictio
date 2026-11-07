@@ -46,6 +46,7 @@
 ## Try Depictio
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/depictio/depictio?devcontainer_path=.devcontainer/try/devcontainer.json&quickstart=1)
+<a href="https://repocloud.io/details/Depictio/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="32"></a>
 
 ## Contribute a tool
 
